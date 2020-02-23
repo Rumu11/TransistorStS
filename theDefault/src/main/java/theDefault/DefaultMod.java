@@ -89,7 +89,7 @@ public class DefaultMod implements
     //This is for the in-game mod settings panel.
     private static final String MODNAME = "Default Mod";
     private static final String AUTHOR = "Gremious"; // And pretty soon - You!
-    private static final String DESCRIPTION = "A base for Slay the Spire to start your own mod from, feat. the Default.";
+    private static final String DESCRIPTION = "Red from Transistor by Supergiant Games.";
     
     // =============== INPUT TEXTURE LOCATION =================
     
@@ -184,7 +184,7 @@ public class DefaultMod implements
           \___|_||_/_/ \_\|_|\_|\___|___| |_|  |_|\___/|___/  |___||___(_)
       */
       
-        setModID("theDefault");
+        setModID("transistorStS");
         // cool
         // TODO: NOW READ THIS!!!!!!!!!!!!!!!:
         
